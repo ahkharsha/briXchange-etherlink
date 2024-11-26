@@ -1,10 +1,10 @@
 # 🏢 **briXchange** - Invest Smart, Own a part
 
-[![Deployment Status](https://img.shields.io/badge/Deployment-Live-brightgreen)](https://bri-x-change.vercel.app/)
+[![Deployment Status](https://img.shields.io/badge/Deployment-Live-brightgreen)](https://bri-x-change-etherlink.vercel.app/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/ahkharsha/briXchange-etherlink)
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue)](https://www.linkedin.com/in/harsha-kumar-a-271a76203/)
 
-<img src="https://github.com/user-attachments/assets/1c74e33d-9a29-4314-8abe-df38c1c63f10" alt="logo-white" width="40"/>
+<img src="https://github.com/user-attachments/assets/1cbac393-80d1-431a-8d0a-fe2255f1bcf5" alt="logo-white" width="50"/>
 
 ---
 
@@ -15,7 +15,7 @@ briXchange is an innovative blockchain-based platform designed to revolutionize 
 ## 🚀 **Deployment**
 
 The platform is live and can be accessed at:  
-<br>**🔗 [briXchange Testnet (Deployed) - bri-x-change.vercel.app](https://bri-x-change.vercel.app/)** - Etherlink Testnet
+<br>**🔗 [briXchange Testnet (Deployed) - bri-x-change-etherlink.vercel.app](https://bri-x-change-etherlink.vercel.app/)** - Etherlink Testnet
 <br>
 <br>
 **🔗 [briXchange Etherlink Mainnet (Under Development) - brixchange-etherlink-mainnet.vercel.app](https://brixchange-etherlink-mainnet.vercel.app/)** - Etherlink Mainnet
@@ -197,7 +197,7 @@ For any inquiries or support, feel free to reach out:
 
 - **Email**: [ahkharsha@gmail.com](mailto:ahkharsha@gmail.com)
 - **LinkedIn**: [Harsha Kumar](https://www.linkedin.com/in/harsha-kumar-a-271a76203/)
-- **Project Website**: [briXchange](https://bri-x-change.vercel.app/)
+- **Project Website**: [briXchange](https://bri-x-change-etherlink.vercel.app/)
 
 ---
 
