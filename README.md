@@ -1,7 +1,7 @@
 # 🏢 **briXchange** - Invest Smart, Own a part
 
 [![Deployment Status](https://img.shields.io/badge/Deployment-Live-brightgreen)](https://bri-x-change.vercel.app/)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/ahkharsha/briXchange)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/ahkharsha/briXchange-etherlink)
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue)](https://www.linkedin.com/in/harsha-kumar-a-271a76203/)
 
 <img src="https://github.com/user-attachments/assets/1c74e33d-9a29-4314-8abe-df38c1c63f10" alt="logo-white" width="40"/>
@@ -116,7 +116,7 @@ Our vision is to democratize real estate investment by leveraging the power of b
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/ahkharsha/briXchange.git
+    git clone https://github.com/ahkharsha/briXchange-etherlink.git
     cd brixchange
     ```
 
@@ -187,7 +187,7 @@ Your application will be up and running at `http://localhost:3000` 🚀
 
 ## 📜 **License**
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/ahkharsha/briXchange/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/ahkharsha/briXchange-etherlink/blob/main/LICENSE) file for details.
 
 ---
 
@@ -202,4 +202,4 @@ For any inquiries or support, feel free to reach out:
 ---
 
 
-*Made with ❤️ by the briXchange team.*
+*Made with ❤️ by the CryptoVenture Innovators team.*

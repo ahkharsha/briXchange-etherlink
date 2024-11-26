@@ -9,75 +9,20 @@ export const PINATA_SECRET_KEY =
 
 //NETWORK
 const networks = {
-  polygon_amoy: {
-    chainId: `0x${Number(80002).toString(16)}`,
-    chainName: "Polygon Amoy",
-    nativeCurrency: {
-      name: "MATIC",
-      symbol: "MATIC",
-      decimals: 18,
-    },
-    rpcUrls: ["https://rpc-amoy.polygon.technology/"],
-    blockExplorerUrls: ["https://www.oklink.com/amoy"],
-  },
-  polygon_mumbai: {
-    chainId: `0x${Number(80001).toString(16)}`,
-    chainName: "Polygon Mumbai",
-    nativeCurrency: {
-      name: "MATIC",
-      symbol: "MATIC",
-      decimals: 18,
-    },
-    rpcUrls: ["https://rpc.ankr.com/polygon_mumbai"],
-    blockExplorerUrls: ["https://mumbai.polygonscan.com/"],
-  },
-  polygon: {
-    chainId: `0x${Number(137).toString(16)}`,
-    chainName: "Polygon Mainnet",
-    nativeCurrency: {
-      name: "MATIC",
-      symbol: "MATIC",
-      decimals: 18,
-    },
-    rpcUrls: ["https://rpc.ankr.com/polygon"],
-    blockExplorerUrls: ["https://polygonscan.com/"],
-  },
-  bsc: {
-    chainId: `0x${Number(56).toString(16)}`,
-    chainName: "Binance Smart Chain Mainnet",
-    nativeCurrency: {
-      name: "Binance Chain Native Token",
-      symbol: "BNB",
-      decimals: 18,
-    },
-    rpcUrls: ["https://rpc.ankr.com/bsc"],
-    blockExplorerUrls: ["https://bscscan.com"],
-  },
-  base_mainnet: {
-    chainId: `0x${Number(8453).toString(16)}`,
-    chainName: "Base Mainnet",
-    nativeCurrency: {
-      name: "ETH",
-      symbol: "ETH",
-      decimals: 18,
-    },
-    rpcUrls: ["https://mainnet.base.org/"],
-    blockExplorerUrls: ["https://bscscan.com"],
-  },
-  base_sepolia: {
-    chainId: `0x${Number(84532).toString(16)}`,
-    chainName: "Base Sepolia",
-    nativeCurrency: {
-      name: "ETH",
-      symbol: "ETH",
-      decimals: 18,
-    },
-    rpcUrls: ["https://sepolia.base.org"],
-    blockExplorerUrls: ["https://bscscan.com"],
-    },
   etherlink_testnet: {
-      chainId: `0x${Number(128123).toString(16)}`,
-      chainName: "Etherlink Testnet",
+    chainId: `0x${Number(128123).toString(16)}`,
+    chainName: "Etherlink Testnet",
+    nativeCurrency: {
+      name: "XTZ",
+      symbol: "XTZ",
+      decimals: 18,
+    },
+    rpcUrls: ["https://etherlink-testnet.rpc.thirdweb.com/"],
+    blockExplorerUrls: ["https://testnet-explorer.etherlink.com/"],
+  },
+  etherlink_mainnet: {
+    chainId: `0x${Number(42793).toString(16)}`,
+    chainName: "Etherlink Mainnet",
     nativeCurrency: {
       name: "XTZ",
       symbol: "XTZ",
